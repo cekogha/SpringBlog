@@ -1,4 +1,4 @@
-package fr.cekogha.springblog.entity;
+package fr.cekogha.springblog.entities;
 
 import java.util.Date;
 
